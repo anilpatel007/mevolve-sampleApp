@@ -1,0 +1,4 @@
+#Fri Nov 11 19:39:23 IST 2022
+base.0=/Users/ashoksongara/Documents/Freelancer/mevolve/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
